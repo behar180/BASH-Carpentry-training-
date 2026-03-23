@@ -94,7 +94,7 @@
 - `cp` → copy  
 - `mv` → move/rename  
 - `mkdir` → create directory  
-- `rm` → delete (permanent ⚠️)  
+- `rm` → delete 
 - `rm -r` → delete directory  
 
 ## Permissions
